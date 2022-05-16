@@ -1,0 +1,13 @@
+
+
+{
+  "data": [
+    {
+	  "host": "http://1.117.11.230:9200",
+      "diskName": "/dev/mapper/centos-root",
+	  "stage-high": 20,
+	  "stage-low": 10,
+	  "index-white": "envoy,database"
+    }
+  ]
+}
